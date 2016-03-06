@@ -1,0 +1,28 @@
+name: Accoutering
+favicon: null
+layout_spectrum: 0.465523473219946
+typography_spectrum: 0.6188787966966629
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6676116075832397
+  lightness: 0.27375320182181895
+  saturation: 0.28606918919831514
+  rhythmicContrast: 0.18710066797211766
+purpose: []
